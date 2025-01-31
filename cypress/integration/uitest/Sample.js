@@ -1,5 +1,3 @@
-const { after } = require("node:test")
-
 // Sample.js created with Cypress
 describe('example to-do app', () => {
     beforeEach(() => {
